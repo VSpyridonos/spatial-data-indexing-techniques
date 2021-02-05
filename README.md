@@ -10,3 +10,7 @@ Given a file that contains the coordinates of rectangles that are MBRs of spatia
 <p><h2>Part 2: R-tree queries</h2>
 Implements range queries on the R-tree that was created and prints the results. The three types of queries are: range intersection query, range inside query and containment query. Results are printed.
 </p>
+
+<p><h2>Usage</h2>
+python3 R-tree.py data_file_name
+</p>
