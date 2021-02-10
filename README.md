@@ -1,5 +1,5 @@
 # spacial-data-indexing-techniques
-Development of indexing and searching techniques for spacial data by creating an R-tree.
+Implementing indexing and searching techniques for spatial data by creating an R-tree.
 <br>
 <h1>Program functionalities</h1>
 
