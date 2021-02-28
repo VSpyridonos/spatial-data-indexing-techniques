@@ -1,5 +1,5 @@
 # spacial-data-indexing-techniques
-Implementing indexing and searching techniques for spatial data by creating an R-tree.
+Implementing indexing and searching techniques for spatial data by creating an R-tree using Python.
 <br>
 <h1>Program functionalities</h1>
 
